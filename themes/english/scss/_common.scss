@@ -1,0 +1,20 @@
+body {
+  background-color: #f7f5f2;
+}
+
+a {
+  text-decoration: none;
+}
+.theme-btn {
+  border: 0;
+  border-radius: 0;
+  text-decoration: none;
+  padding: 8px 16px;
+  background-color: #000;
+  color: #fff;
+  text-transform: uppercase;
+  &:hover {
+    background-color: #ccc;
+    color: #000;
+  }
+}
