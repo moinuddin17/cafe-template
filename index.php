@@ -164,43 +164,4 @@
     </div>
 </section>
 <!-- Where Section End -->
-
-<!-- Contact Section Start -->
-<!-- <section class="contactSection" id="contactSection">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6">
-                <form class="needs-validation" id="contact_form_message" method="post" action="#">
-                    <div class="row g-4">
-                        <div class="col-md-12">
-                            <div class="form-outline">
-                                <input type="text" class="form-control" name="firstname" placeholder="Name" required="">
-                            </div>
-                        </div>
-                        <div class="col-md-12">
-                            <div class="form-outline">
-                                <input type="text" class="form-control" name="phone" placeholder="How many people" required="">
-                            </div>
-                        </div>                    
-                        <div class="col-md-12">
-                            <div class="form-outline">
-                                <input type="email" name="email" class="form-control" required="">
-                            </div>
-                        </div>
-                        <div class="col-md-12">
-                            <div class="form-outline">
-                                <input type="text" class="form-control" name="phone" placeholder="Message \ Special requirements" required="">
-                            </div>
-                        </div>
-                        <div class="col-md-12 text-start">
-                            <button type="submit" name="submit" class="theme-btn mt-4"><span>Send Message</span>
-                            </button>
-                        </div>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-</section> -->
-<!-- Contact Section End -->
 <?php include 'footer.php' ?>
